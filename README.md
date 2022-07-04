@@ -1,1 +1,1 @@
-# cs253 these are assignments given during the course
+# these are assignments given during the CS253 course
